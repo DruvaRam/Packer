@@ -14,3 +14,4 @@ echo "export PATH=$PATH:/opt/gradle/gradle-4.6/bin" | sudo tee /etc/environment
 source /etc/environment
 gradle -v
 sudo apt-get install git -y
+echo "Success"
